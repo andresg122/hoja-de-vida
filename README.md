@@ -7,8 +7,7 @@ proyecto hoja de vida
 | :---                      | :----:                    | 
 | **FECHA DE NACIMIENTO**   | 11 de diciembre de 2003   | 
 | **SEXO**                  | Masculino                 |  
-| **CÉDULA DE CIUDADANÍA**  | 1043434203                | 
-| :---                      |  :----:                   | 
+| **CÉDULA DE CIUDADANÍA**  | 1043434203                |                                       
 | **ESTDO CIVIL**           | Soltero                   | 
 | **DIRECCIÓN**             | Calle 45 #53-30           | 
 | **TELÉFONO**              | 3157549761                | 
