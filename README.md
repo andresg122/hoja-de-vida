@@ -1,7 +1,7 @@
 # hoja-de-vida
 proyecto hoja de vida
 ### **HOJA DE VIDA**
-![imagen](blob:https://web.whatsapp.com/25e94b99-63d4-4fbf-8cd9-c60db167d722)
+<a href="https://ibb.co/NFyGqHn"><img src="https://i.ibb.co/NFyGqHn/foto-2.jpg" alt="foto-2" border="0"></a>
 ---
 ### **DATOS PERSONALES**
 #### **NOMBRES Y APELIIDOS:**
